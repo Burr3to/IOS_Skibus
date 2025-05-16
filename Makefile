@@ -1,4 +1,4 @@
-TARGET=proj2
+TARGET=src/proj2
 
 CFLAGS=-std=gnu99 -Wall -Wextra -Werror -pedantic -pthread -lrt
 
